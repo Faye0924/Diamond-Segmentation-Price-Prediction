@@ -20,16 +20,14 @@ To simplify reproducibility and avoid including sponsor-specific file paths, all
 Diamond Segmentation & Price Prediction/ 
 │ 
 ├── README.md      # Project overview (this file) 
-├── README.html    # Project overview preview (open in browser) 
 │ 
 ├── SETUP.md       # Setting up R and RStudio 
-├── SETUP.html     # Setting up R and RStudio preview (open in browser)
 │ 
 ├── diamonds_sample1000.csv    # Sample dataset used by pipeline & shiny UI 
 │ 
 ├── segmented_predictive_modeling_pipeline.rmd    # Pipeline 
 │ 
-├── segmented_predictive_modeling_pipeline.html    # Rendered HTML file from pipeline 
+├── segmented_predictive_modeling_pipeline.pdf    # Rendered pdf file from pipeline 
 │
 ├── pam_bundle.rds    # Serialized `.rds` artifact used by Shiny UI 
 │
