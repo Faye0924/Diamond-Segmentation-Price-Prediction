@@ -1,5 +1,5 @@
 ## Diamond Segmentation & Price Prediction 
-
+**Author:** Xufei Lang
 ---
 
 ## Project Overview
