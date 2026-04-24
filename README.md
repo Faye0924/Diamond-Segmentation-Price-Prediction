@@ -113,6 +113,5 @@ This is the intended path for most users.
 
 ---
 
-Maintained by Xufei Lang  
 Last updated: 2026‑04‑24
 
