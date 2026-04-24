@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-Due to NDA restrictions on the original sponsor dataset, this repository uses the built-in `diamonds` dataset as a substitute to demonstrate the end-to-end modeling workflow without exposing confidential business data. The project preserves the original PAM (Gower distance) clustering and per-cluster prediction framework while adapting the preprocessing pipeline and Shiny application to fit the new dataset structure.
+Due to NDA restrictions on the original sponsor dataset, this repository uses the R built-in `diamonds` dataset as a substitute to demonstrate the end-to-end modeling workflow without exposing confidential business data. The project preserves the original PAM (Gower distance) clustering and per-cluster prediction framework while adapting the preprocessing pipeline and Shiny application to fit the new dataset structure.
 
 The Shiny UI was simplified by removing sponsor-specific components such selected account_id highlighting, dataset download features, and the interactive hover display of account_id in the 3D visualization. These changes result in a cleaner and more reproducible demonstration of segmentation and prediction modeling.
 
