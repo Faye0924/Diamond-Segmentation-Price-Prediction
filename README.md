@@ -72,7 +72,7 @@ This public version focuses on the clustering implementation, cluster assignment
 
 - **File:** `segmented_predictive_modeling_pipeline.rmd`
 
-- Detailed outputs are stored in `segmented_predictive_modeling_pipeline.html`.
+- Detailed outputs are stored in `segmented_predictive_modeling_pipeline.pdf`.
 
 ---
 
