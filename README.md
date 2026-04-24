@@ -1,6 +1,6 @@
 ## Diamond Segmentation & Price Prediction 
 
-
+---
 
 ## Project Overview
 
