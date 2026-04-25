@@ -88,8 +88,6 @@ This public version focuses on the clustering implementation, cluster assignment
 
 ![Shiny App Screenshot](shiny_screenshot.png)
 
-**Prerequisites:** Refer to `SETUP.md` for environment setup and required R packages.
-
 **Note:** This code was generated with the assistance of **Google Gemini (AI)** and refined by the author through iterative guidance, adjustments, and validation.
 
 ---
