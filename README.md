@@ -23,7 +23,7 @@ Diamond Segmentation & Price Prediction/
 │ 
 ├── SETUP.md       # Setting up R and RStudio 
 │ 
-├── diamonds_sample1000.csv    # Sample dataset used by pipeline & shiny UI 
+├── diamonds_sample1000.csv    # Sample dataset used by pipeline & Shiny UI 
 │ 
 ├── segmented_predictive_modeling_pipeline.rmd    # Pipeline 
 │ 
