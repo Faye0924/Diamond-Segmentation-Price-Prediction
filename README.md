@@ -84,7 +84,7 @@ This public version focuses on the clustering implementation, cluster assignment
 
 - **Inputs:** `diamonds_sample1000.csv`, `pam_bundle.rds`
 
-- Shiny UI Application Preview
+- **Shiny UI Application Preview:**
 
 ![Shiny App Screenshot](shiny_screenshot.png)
 
