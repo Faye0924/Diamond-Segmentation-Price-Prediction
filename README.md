@@ -122,7 +122,7 @@ From a strategic perspective, this project offers three-fold value:
 
 - Second, the reusable pipeline ensures that future data can be analyzed with high efficiency.
 
-- Finally, the Shiny interface transforms complex models into a functional tool, enabling the team to perform real-time segmentation and data-driven predictions.
+- Finally, the Shiny interface transforms complex models into a functional tool, enabling the team to perform real-time segmentation and segment-level predictions.
 
 ---
 
