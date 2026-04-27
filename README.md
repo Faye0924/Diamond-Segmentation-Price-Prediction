@@ -114,5 +114,17 @@ This is the intended path for most users.
 
 ---
 
+## Business Impact
+
+From a strategic perspective, this project offers three-fold value: 
+
+- First, the segmentation allows the company to move away from 'one-size-fits-all' marketing and develop highly focused strategies for different customer clusters.
+
+- Second, the reusable pipeline ensures that future data can be analyzed with high efficiency.
+
+- Finally, the Shiny interface transforms complex models into a functional tool, enabling the team to perform real-time segmentation and data-driven predictions.
+
+---
+
 Last updated: 2026‑04‑24
 
