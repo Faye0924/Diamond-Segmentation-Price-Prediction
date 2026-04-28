@@ -64,11 +64,11 @@ This public version focuses on the clustering implementation, cluster assignment
 
 - **Pipeline Structure:** The original sponsor workflow consisted of three separate pipelines for different tasks. In this repository, they have been merged into a single unified pipeline to improve clarity, reproducibility, and ease of demonstration.
 
-- Original Pipeline 1 - Feature Selection and Clustering: Feature selection and clustering are applied to identify meaningful segments and generate cluster assignments.
+ - Original Pipeline 1 - Feature Selection and Clustering: Feature selection and clustering are applied to identify meaningful segments and generate cluster assignments.
 
-- Original Pipeline 2 - Predictive Models Comparison: Multiple predictive models are trained and evaluated within each cluster to identify the best‑performing configurations.
+ - Original Pipeline 2 - Predictive Models Comparison: Multiple predictive models are trained and evaluated within each cluster to identify the best‑performing configurations.
 
-- Original Pipeline 3 - Optimal Models for Shiny: Final clustering results and selected models are consolidated into serialized artifacts for use in the Shiny application.
+ - Original Pipeline 3 - Optimal Models for Shiny: Final clustering results and selected models are consolidated into serialized artifacts for use in the Shiny application.
 
 - **File:** `segmented_predictive_modeling_pipeline.rmd`
 
